@@ -1,0 +1,6 @@
+{
+  "name": "TruFixer",
+  "description": "Ultra-minimalist hardware and device diagnostic engine providing raw structured troubleshooting and repair recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
